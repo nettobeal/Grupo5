@@ -2,7 +2,6 @@
 Grupo5 - Trabalho de Programação Orientada a Objetos e UML realizado na linguagem Java.
 
 Sistema de Otimização de Investimentos.
-A otimização de carteiras de investimentos é uma tarefa que pode beneficiar-se de técnicas de IA, como algoritmos genéticos. 
 Este sistema oferece recomendações para a melhor alocação de ativos, considerando perfis de risco e retorno. 
 A interface gráfica permite simular e visualizar diferentes combinações de carteiras, enquanto o banco de dados armazena carteiras e resultados. 
 Esta solução é ideal para investidores que buscam maximizar retornos minimizando riscos, automatizando o processo de otimização.
